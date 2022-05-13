@@ -8,3 +8,6 @@ Powerpoint Slide:
 
 - [Dasar Dasar Javascript](https://docs.google.com/presentation/d/1l5QpF4tJtgxJX9DJPj6L0PY7XTtqgixM5Bo2SdZBEm8/edit?usp=sharing)
 - [Function](https://docs.google.com/presentation/d/1qwyy7Eb_aQ4GA5uKx3dBGmFeUR1fs5NZW3-YTzsCIgE/edit?usp=sharing)
+- [OOP](https://docs.google.com/presentation/d/13bFQeKvy9rka1t8U8Py0HtFdP7gmO5vuCYx9WnhFeps/edit?usp=sharing)
+- [FP](https://docs.google.com/presentation/d/1s73dIfX73joV3hggWvm62q1nP3vafoNtFDnQiAAiPWY/edit?usp=sharing)
+-
