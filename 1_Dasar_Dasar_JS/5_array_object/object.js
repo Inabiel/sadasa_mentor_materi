@@ -8,6 +8,9 @@ let obj = {
     lname: "Doe",
     fullname: function () {
         return `${this.fname} ${this.lname}`
+    },
+    arrowFullName: () => {
+        return `${this.fname} ${this.lname}`
     }
 }
 
@@ -21,4 +24,4 @@ console.log(obj)
 
 //untuk menghapus, menggunakan keyword delete disambung dengan property yang ingin dihapus
 delete obj.addedProperty //proses penghapusan
-console.log(obj) //sudah terhapus
+console.log(obj.arrowFullName()) //sudah terhapus
