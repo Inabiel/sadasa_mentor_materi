@@ -12,3 +12,7 @@ Powerpoint Slide:
 - [FP](https://docs.google.com/presentation/d/1s73dIfX73joV3hggWvm62q1nP3vafoNtFDnQiAAiPWY/edit?usp=sharing)
 - [Asynchronous Programming](https://docs.google.com/presentation/d/18vZTpckDJ_E9LiJ_bDzNwJLS87cnT1xbl6P8rPzA0gc/edit?usp=sharing)
 - [Best Practice JS](https://docs.google.com/presentation/d/1oh5PAQhkQ9i1RgPSjHXT0C-CzfyHjkPh-7XKGzz0b_4/edit?usp=sharing)
+
+Module :
+
+- [ON PROGRESS]
