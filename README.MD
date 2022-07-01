@@ -15,4 +15,4 @@ Powerpoint Slide:
 
 Module :
 
-- [Module] (https://www.notion.so/Modul-9965d3929fa24ba6bc1a103d266e1dfd)
+- [Module](https://www.notion.so/Modul-9965d3929fa24ba6bc1a103d266e1dfd)
